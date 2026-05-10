@@ -62,9 +62,6 @@ The Power BI dashboard includes:
 - Top 10 Products
 - Interactive Filters (Region, Category)
 
-📷 *(Add your dashboard screenshot here)*
-
----
 
 ## 🚀 Conclusion
 This project demonstrates end-to-end data analysis:
