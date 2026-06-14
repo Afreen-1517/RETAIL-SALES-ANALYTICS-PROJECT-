@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project focuses on analyzing a real-world retail dataset to uncover business insights related to sales performance, profitability, and product trends.
 
-The goal was to simulate how  data analyst supports decision-making using data.
+The goal was to simulate how a data analyst supports decision-making using data.
 
 
 ## 🛠 Tools Used
@@ -75,7 +75,6 @@ This project demonstrates end-to-end data analysis:
 
 It reflects how data can be used to drive business decisions.
 
----
 
 ## 🔗 Author
 Mohammed Afreen
