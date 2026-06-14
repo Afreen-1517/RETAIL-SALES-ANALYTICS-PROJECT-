@@ -66,6 +66,15 @@ The Power BI dashboard includes:
 - Interactive Filters (Region, Category)
 
 
+## ▶️ How to Run
+1. Clone this repo:
+   git clone https://github.com/Afreen-1517/RETAIL-SALES-ANALYTICS-PROJECT-
+2. Open Retail_Sales_Analysis.ipynb in Google Colab or Jupyter Notebook
+3. Upload cleaned_data.csv to your environment
+4. Run all cells in order
+5. Open Dashboard-PowerBI.jpg to view the final dashboard
+
+   
 ## 🚀 Conclusion
 This project demonstrates end-to-end data analysis:
 - Data cleaning
